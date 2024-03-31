@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "appmainlogo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
