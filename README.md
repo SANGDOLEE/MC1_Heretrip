@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td colspan="1" align="center"><b>대화 가이드</b></td>
-      <td colspan="1" align="center"><b>여행을 기록하고 저장</b></td>
+      <td colspan="1" align="center"><b>여행 기록 및 저장</b></td>
       <td colspan="1" align="center"><b>나의 기록 확인</b></td>
     </tr>
     <tr>
@@ -34,5 +34,4 @@
 <br/>
 <br/>
 <br/>
-
 <br/>
