@@ -24,8 +24,8 @@
     </tr>
     <tr>
       <td align="center"><a href=""><img src="https://github.com/SANGDOLEE/TodaysFood/assets/108053426/52b7f221-76b6-49c5-ba6f-d33a0cb331bf" width="400px;" alt=""/><br /><sub><b></b></sub></a></td>
-      <td align="center"><a href=""><img src="https://github.com/SANGDOLEE/MC1_Heretrip/assets/108053426/d34874db-4cc9-4076-b00e-3c962ae55f44" width="400px;" alt=""/><br /><sub><b></b></sub></a></td>
-      <td align="center"><a href=""><img src="https://github.com/SANGDOLEE/TodaysFood/assets/108053426/17a82582-4ce2-45be-a7b3-e7091b770962d" width="400px;" alt=""/><br /><sub><b></b></sub></a></td>
+      <td align="center"><a href=""><img src="![second]https://github.com/SANGDOLEE/MC1_Heretrip/assets/108053426/d34874db-4cc9-4076-b00e-3c962ae55f44" width="400px;" alt=""/><br /><sub><b></b></sub></a></td>
+      <td align="center"><a href=""><img src="![second]https://github.com/SANGDOLEE/MC1_Heretrip/assets/108053426/d34874db-4cc9-4076-b00e-3c962ae55f44" width="400px;" alt=""/><br /><sub><b></b></sub></a></td>
     </tr>
   </tbody>
 </table>
