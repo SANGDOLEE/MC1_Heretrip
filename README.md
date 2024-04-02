@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-## Feature List 🎮
+## Feature List
 - 랜덤으로 조건을 제시해 대화 상대 추천기능
 - 여러가지 대화 주제를 통해 가이드 제공
 - 여행 사진과 텍스트를 기록하고 저장
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## Prototype 📱
+## Prototype
 <table>
   <tbody>
     <tr>
