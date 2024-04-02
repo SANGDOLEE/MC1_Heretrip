@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## Working Prototype 📱
+## Prototype 📱
 <table>
   <tbody>
     <tr>
